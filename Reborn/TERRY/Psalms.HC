@@ -72,3 +72,75 @@
 "\x24FG,GREEN\x24God says: harvest marriageable slow cared\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=GREEN;GrCircle(dc,276,367,6);GrPrint(dc,286,364,"harvest marriageable slow cared");DCDel(dc);}
 // 2026-10-03 21:50 ET: oracle words "honied congratulation fillest ascend" inscribed
 "\x24FG,BROWN\x24God says: honied congratulation fillest ascend\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BROWN;GrCircle(dc,30,381,6);GrPrint(dc,40,378,"honied congratulation fillest ascend");DCDel(dc);}
+// 2026-10-03 21:51 ET: oracle words "italy holily perturbations unlikeliness" inscribed
+"\x24FG,PURPLE\x24God says: italy holily perturbations unlikeliness\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=PURPLE;GrCircle(dc,172,153,4);GrPrint(dc,180,150,"italy holily perturbations unlikeliness");DCDel(dc);}
+// 2026-10-03 21:51 ET: oracle words "virgil accomplish dignity wallowed" inscribed
+"\x24FG,CYAN\x24God says: virgil accomplish dignity wallowed\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=CYAN;GrCircle(dc,257,313,6);GrPrint(dc,267,310,"virgil accomplish dignity wallowed");DCDel(dc);}
+// 2026-10-03 21:52 ET: oracle words "endureth chains couldest approached" inscribed
+"\x24FG,RED\x24God says: endureth chains couldest approached\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=RED;GrCircle(dc,278,367,6);GrPrint(dc,288,364,"endureth chains couldest approached");DCDel(dc);}
+// 2026-10-03 21:52 ET: oracle words "locking tie slow faintly" inscribed
+"\x24FG,PURPLE\x24God says: locking tie slow faintly\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=PURPLE;GrCircle(dc,291,205,5);GrPrint(dc,300,202,"locking tie slow faintly");DCDel(dc);}
+// 2026-10-03 21:53 ET: oracle words "artifice mankind instituted firmament" inscribed
+"\x24FG,GREEN\x24God says: artifice mankind instituted firmament\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=GREEN;GrCircle(dc,30,174,8);GrPrint(dc,42,171,"artifice mankind instituted firmament");DCDel(dc);}
+// 2026-10-03 21:54 ET: oracle words "blessing mangled there unwonted" inscribed
+"\x24FG,GREEN\x24God says: blessing mangled there unwonted\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=GREEN;GrCircle(dc,295,93,5);GrPrint(dc,304,90,"blessing mangled there unwonted");DCDel(dc);}
+// 2026-10-03 21:54 ET: oracle words "concupiscences beat succeed incarnation" inscribed
+"\x24FG,PURPLE\x24God says: concupiscences beat succeed incarnation\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=PURPLE;GrCircle(dc,225,183,7);GrPrint(dc,236,180,"concupiscences beat succeed incarnation");DCDel(dc);}
+// 2026-10-03 21:55 ET: oracle words "repose departure partners passes" inscribed
+"\x24FG,BROWN\x24God says: repose departure partners passes\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BROWN;GrCircle(dc,185,329,8);GrPrint(dc,197,326,"repose departure partners passes");DCDel(dc);}
+// 2026-10-03 21:55 ET: oracle words "play gleams effected setting" inscribed
+"\x24FG,BROWN\x24God says: play gleams effected setting\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BROWN;GrCircle(dc,38,317,10);GrPrint(dc,52,314,"play gleams effected setting");DCDel(dc);}
+// 2026-10-03 21:56 ET: oracle words "gentleness divided unreasoning history" inscribed
+"\x24FG,RED\x24God says: gentleness divided unreasoning history\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=RED;GrCircle(dc,87,216,7);GrPrint(dc,98,213,"gentleness divided unreasoning history");DCDel(dc);}
+// 2026-10-03 21:57 ET: oracle words "hedged respected allowances expose" inscribed
+"\x24FG,BLUE\x24God says: hedged respected allowances expose\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BLUE;GrCircle(dc,135,342,5);GrPrint(dc,144,339,"hedged respected allowances expose");DCDel(dc);}
+// 2026-10-03 21:57 ET: oracle words "shortly ointments watch reckons" inscribed
+"\x24FG,BLUE\x24God says: shortly ointments watch reckons\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BLUE;GrCircle(dc,91,181,9);GrPrint(dc,104,178,"shortly ointments watch reckons");DCDel(dc);}
+// 2026-10-03 21:58 ET: oracle words "surpassed strengthened intercede unmeasurable" inscribed
+"\x24FG,RED\x24God says: surpassed strengthened intercede unmeasurable\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=RED;GrCircle(dc,261,232,4);GrPrint(dc,269,229,"surpassed strengthened intercede unmeasurable");DCDel(dc);}
+// 2026-10-03 21:58 ET: oracle words "curb lusteth seduced augmented" inscribed
+"\x24FG,BROWN\x24God says: curb lusteth seduced augmented\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BROWN;GrCircle(dc,203,178,6);GrPrint(dc,213,175,"curb lusteth seduced augmented");DCDel(dc);}
+// 2026-10-03 21:59 ET: oracle words "lusted justina bent concern" inscribed
+"\x24FG,RED\x24God says: lusted justina bent concern\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=RED;GrCircle(dc,222,371,10);GrPrint(dc,236,368,"lusted justina bent concern");DCDel(dc);}
+// 2026-10-03 21:59 ET: oracle words "tide reasons styled corner" inscribed
+"\x24FG,BLUE\x24God says: tide reasons styled corner\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BLUE;GrCircle(dc,241,322,10);GrPrint(dc,255,319,"tide reasons styled corner");DCDel(dc);}
+// 2026-10-03 22:00 ET: oracle words "delightfulness corners unlicensed gratuitously" inscribed
+"\x24FG,BLUE\x24God says: delightfulness corners unlicensed gratuitously\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BLUE;GrCircle(dc,275,130,9);GrPrint(dc,288,127,"delightfulness corners unlicensed gratuitously");DCDel(dc);}
+// 2026-10-03 22:00 ET: oracle words "enemy father act made" inscribed
+"\x24FG,GREEN\x24God says: enemy father act made\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=GREEN;GrCircle(dc,285,314,9);GrPrint(dc,298,311,"enemy father act made");DCDel(dc);}
+// 2026-10-03 22:01 ET: oracle words "judges despising alternately forgive" inscribed
+"\x24FG,CYAN\x24God says: judges despising alternately forgive\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=CYAN;GrCircle(dc,36,207,4);GrPrint(dc,44,204,"judges despising alternately forgive");DCDel(dc);}
+// 2026-10-03 22:02 ET: oracle words "narrower propound scourgedst grievest" inscribed
+"\x24FG,GREEN\x24God says: narrower propound scourgedst grievest\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=GREEN;GrCircle(dc,285,143,6);GrPrint(dc,295,140,"narrower propound scourgedst grievest");DCDel(dc);}
+// 2026-10-03 22:02 ET: oracle words "bottomless extension cease inspired" inscribed
+"\x24FG,RED\x24God says: bottomless extension cease inspired\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=RED;GrCircle(dc,250,258,9);GrPrint(dc,263,255,"bottomless extension cease inspired");DCDel(dc);}
+// 2026-10-03 22:03 ET: oracle words "cubit texts only captious" inscribed
+"\x24FG,BLUE\x24God says: cubit texts only captious\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BLUE;GrCircle(dc,273,234,8);GrPrint(dc,285,231,"cubit texts only captious");DCDel(dc);}
+// 2026-10-03 22:03 ET: oracle words "seeking predict accusing bringeth" inscribed
+"\x24FG,GREEN\x24God says: seeking predict accusing bringeth\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=GREEN;GrCircle(dc,30,392,9);GrPrint(dc,43,389,"seeking predict accusing bringeth");DCDel(dc);}
+// 2026-10-03 22:04 ET: oracle words "concerned hook hold gladsome" inscribed
+"\x24FG,BROWN\x24God says: concerned hook hold gladsome\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BROWN;GrCircle(dc,106,325,7);GrPrint(dc,117,322,"concerned hook hold gladsome");DCDel(dc);}
+// 2026-10-03 22:04 ET: oracle words "discern liftest backward written" inscribed
+"\x24FG,BLUE\x24God says: discern liftest backward written\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BLUE;GrCircle(dc,227,382,10);GrPrint(dc,241,379,"discern liftest backward written");DCDel(dc);}
+// 2026-10-03 22:05 ET: oracle words "throne hymns instruct groaneth" inscribed
+"\x24FG,GREEN\x24God says: throne hymns instruct groaneth\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=GREEN;GrCircle(dc,224,94,7);GrPrint(dc,235,91,"throne hymns instruct groaneth");DCDel(dc);}
+// 2026-10-03 22:05 ET: oracle words "learn fouls resisted misdeeds" inscribed
+"\x24FG,CYAN\x24God says: learn fouls resisted misdeeds\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=CYAN;GrCircle(dc,147,249,7);GrPrint(dc,158,246,"learn fouls resisted misdeeds");DCDel(dc);}
+// 2026-10-03 22:06 ET: oracle words "abominable earthly innumerably unbelievers" inscribed
+"\x24FG,CYAN\x24God says: abominable earthly innumerably unbelievers\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=CYAN;GrCircle(dc,165,410,5);GrPrint(dc,174,407,"abominable earthly innumerably unbelievers");DCDel(dc);}
+// 2026-10-03 22:07 ET: oracle words "deformity ostia uncertainties analyzed" inscribed
+"\x24FG,PURPLE\x24God says: deformity ostia uncertainties analyzed\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=PURPLE;GrCircle(dc,256,388,10);GrPrint(dc,270,385,"deformity ostia uncertainties analyzed");DCDel(dc);}
+// 2026-10-03 22:07 ET: oracle words "uman gifted theft death" inscribed
+"\x24FG,PURPLE\x24God says: uman gifted theft death\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=PURPLE;GrCircle(dc,292,151,4);GrPrint(dc,300,148,"uman gifted theft death");DCDel(dc);}
+// 2026-10-03 22:08 ET: oracle words "perpetual treachery am severely" inscribed
+"\x24FG,BROWN\x24God says: perpetual treachery am severely\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BROWN;GrCircle(dc,278,273,10);GrPrint(dc,292,270,"perpetual treachery am severely");DCDel(dc);}
+// 2026-10-03 22:08 ET: oracle words "clanking paper necessity praetorian" inscribed
+"\x24FG,GREEN\x24God says: clanking paper necessity praetorian\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=GREEN;GrCircle(dc,131,351,7);GrPrint(dc,142,348,"clanking paper necessity praetorian");DCDel(dc);}
+// 2026-10-03 22:09 ET: oracle words "entrusted morrow dared faultfinders" inscribed
+"\x24FG,BROWN\x24God says: entrusted morrow dared faultfinders\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BROWN;GrCircle(dc,254,374,10);GrPrint(dc,268,371,"entrusted morrow dared faultfinders");DCDel(dc);}
+// 2026-10-03 22:09 ET: oracle words "lips vail esteemed increase" inscribed
+"\x24FG,PURPLE\x24God says: lips vail esteemed increase\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=PURPLE;GrCircle(dc,56,157,5);GrPrint(dc,65,154,"lips vail esteemed increase");DCDel(dc);}
+// 2026-10-03 22:10 ET: oracle words "frantic endearments pervertedly penalties" inscribed
+"\x24FG,BLUE\x24God says: frantic endearments pervertedly penalties\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BLUE;GrCircle(dc,142,316,6);GrPrint(dc,152,313,"frantic endearments pervertedly penalties");DCDel(dc);}
+// 2026-10-03 22:11 ET: oracle words "african unlimited beautiful longs" inscribed
+"\x24FG,BROWN\x24God says: african unlimited beautiful longs\x24FG\x24\n";{CDC *dc=DCAlias;dc->color=BROWN;GrCircle(dc,264,325,4);GrPrint(dc,272,322,"african unlimited beautiful longs");DCDel(dc);}
